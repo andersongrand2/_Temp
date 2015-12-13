@@ -1,0 +1,6 @@
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\obj\Debug\RPN_Calculator.ConsoleApp.csprojResolveAssemblyReference.cache
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\bin\Debug\RPN_Calculator.Console.exe.config
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\bin\Debug\RPN_Calculator.Console.exe
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\bin\Debug\RPN_Calculator.Console.pdb
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\obj\Debug\RPN_Calculator.Console.exe
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\obj\Debug\RPN_Calculator.Console.pdb

@@ -1,0 +1,1 @@
+E:\_Desenvolvimento\Visual Studio\_tmp projects\RPN_Calculator\RPN_Calculator.Console\bin\Debug\RPN_Calculator.Console.exe.config
